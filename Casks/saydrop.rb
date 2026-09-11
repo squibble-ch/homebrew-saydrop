@@ -1,6 +1,6 @@
 cask "saydrop" do
-  version "0.3.2"
-  sha256 "714cc3181646fa3e3c33ee0deb5ff5750dfae4aeecfa9808dc67d04bb6291aec"
+  version "0.4.0"
+  sha256 "ae9936ea4713cfb24c7f5a2f0115fa5b5f0af3b140f6ef4f6246e14c5519192d"
 
   url "https://saydrop.squibble.ch/downloads/Saydrop-v#{version}.dmg"
   name "Saydrop"
